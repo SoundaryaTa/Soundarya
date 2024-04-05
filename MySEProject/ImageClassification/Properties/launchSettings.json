@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ImageClassification": {
+      "commandName": "Project",
+      "commandLineArgs": "-cf htmconfig.json -if \"InputFolder\"",
+      "workingDirectory": "C:\\Users\\aiman\\source\\repos\\imageclassification\\ImageClassification\\ImageClassification"
+    }
+  }
+}
